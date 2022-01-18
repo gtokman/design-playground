@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "Ikea",
+      "amount": "$567.90",
+      "date": "Dec 20",
+      "location": "Mexico City",
+      "logo": "https://logo.clearbit.com/ikea.com?size=100"
+    },
+    {
+      "name": "Starbucks",
+      "amount": "$7.21",
+      "date": "Dec 20",
+      "location": "Mexico City",
+      "logo": "https://logo.clearbit.com/starbucks.com?size=100"
+    },
+    {
+      "name": "Door Dash",
+      "amount": "$5.00",
+      "date": "Dec 24",
+      "location": "Mexico City",
+      "logo": "https://logo.clearbit.com/doordash.com?size=100"
+    },
+    {
+      "name": "Uber",
+      "amount": "$10.00",
+      "date": "Dec 24",
+      "location": "Austin",
+      "logo": "https://logo.clearbit.com/uber.com?size=100"
+    },
+    {
+      "name": "Sephora",
+      "amount": "$20.00",
+      "date": "Dec 24",
+      "location": "Austin",
+      "logo": "https://logo.clearbit.com/sephora.com?size=100"
+    },
+    {
+      "name": "McDonald's",
+      "amount": "$10.00",
+      "date": "Dec 24",
+      "location": "Austin",
+      "logo": "https://logo.clearbit.com/mcdonalds.com?size=100"
+    },
+    {
+      "name": "Netflix",
+      "amount": "$14.99",
+      "date": "Dec 28",
+      "location": "Online",
+      "logo": "https://logo.clearbit.com/netflix.com?size=100"
+    },
+    {
+      "name": "Spotify",
+      "amount": "$9.99",
+      "date": "Dec 28",
+      "location": "Online",
+      "logo": "https://logo.clearbit.com/spotify.com?size=100"
+    }
+  ]
+}
